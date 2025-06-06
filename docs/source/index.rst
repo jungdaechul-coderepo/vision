@@ -12,6 +12,7 @@ architectures, and common image transformations for computer vision.
    models
    transforms
    utils
+   diffusion_depth_flow
 
 .. automodule:: torchvision
    :members:
